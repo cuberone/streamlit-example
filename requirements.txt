@@ -1,1 +1,5 @@
+pandas
+numpy
 streamlit
+streamlit-lightweight-charts
+yfinance
